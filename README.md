@@ -1,11 +1,8 @@
 # numbers
 
-*@author Jacob Anabi*
-
-*@date 2018-11-16*
-
-*@version 0.9*
-
+##### *@author Jacob Anabi*
+##### *@date 2018-11-16*
+##### *@version 0.9*
 
 2294644
 
