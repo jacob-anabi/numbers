@@ -7,4 +7,7 @@
 ##### *@course CPSC 298-nix*
 
 ## Description:
-Contains bash script numbers.sh
+Prompts user for a positive number, and then prints each number from 1 to that number, n, stating if it is even or odd
+
+## File:
+numbers.sh
